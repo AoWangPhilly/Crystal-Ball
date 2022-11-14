@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Inter");
+
+.landing-header {
+    /* Heading */
+
+    /* Display xl/Semibold */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    /* identical to box height, or 120% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    /* Gray/900 */
+    color: #101828;
+
+}
+
+.landing-subheader {
+    /* Supporting text */
+
+
+    /* Text xl/Regular */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+
+    text-align: center;
+
+    /* Gray/500 */
+    color: #667085;
+}
+
+.landing-sign-up-btn {
+    background-color: #7F56D9;
+    color: #FFFFFF;
+    width: 122px;
+    height: 60px;
+    margin-top: 50px;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+    font-family: 'Inter';
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+}
+
+.landing-mockup {
+    width: 1280px;
+}
